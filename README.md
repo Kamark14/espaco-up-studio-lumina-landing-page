@@ -21,4 +21,4 @@ Landing page responsiva criada como demonstração comercial para o Studio Lumin
 - Imagens locais na pasta `assets`
 
 ## Abrir
-Abra `index.html` no navegador ou publique a pasta em Vercel/GitHub Pages.
+Abra `index.html` no navegador ou em Vercel/GitHub Pages.
